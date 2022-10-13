@@ -13,19 +13,20 @@
 ##
 
 ### **Content**
-- [Problem Statement](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#problem-statement)
-- [Project Goal](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#project-goal)
-- [Data Description](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#data-description)
-- [Data Exploration](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#data-exploration)
-- [Feature selection and Statistical Test](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#feature-selection-and-statistical-test)
-- [Principal Component Analysis](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#principal-component-analysis)
-- [Model Exploration](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#model-exploration)
-- [Logistic Regression](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#logistic-regression)
-- [Naïve Bayes](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#na%C3%AFve-bayes)
-- [SVM](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#svm)
-- [K- Means Clustering](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#k--means-clustering)
-- [Neural Networks](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#neural-networks)
-- [Project Outcome](https://github.com/ashwinkadam/IE-7374-Machine-Learning-/blob/main/Markdown/IE%207374%20GROUP%2012.md#project-outcome)
+Content
+Problem Statement
+Project Goal
+Data Description
+Data Exploration
+Feature selection and Statistical Test
+Principal Component Analysis
+Model Exploration
+Logistic Regression
+Naïve Bayes
+SVM
+K- Means Clustering
+Neural Networks
+Project Outcome
 
 ##
 
