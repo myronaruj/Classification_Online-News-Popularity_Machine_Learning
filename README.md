@@ -13,20 +13,20 @@
 ##
 
 ### **Content**
-Content
-Problem Statement
-Project Goal
-Data Description
-Data Exploration
-Feature selection and Statistical Test
-Principal Component Analysis
-Model Exploration
-Logistic Regression
-Naïve Bayes
-SVM
-K- Means Clustering
-Neural Networks
-Project Outcome
+- [Problem Statement](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#problem-statement)
+- [Project Goal](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#project-goal)
+- [Data Description](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#data-description)
+- [Data Exploration](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#data-exploration)
+- [Feature selection and Statistical Test](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#feature-selection-and-statistical-test)
+- [Principal Component Analysis](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#principal-component-analysis)
+- [Model Exploration](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#model-exploration)
+- [Logistic Regression](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#logistic-regression)
+- [Naïve Bayes](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#na%C3%AFve-bayes)
+- [SVM](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#svm)
+- [K- Means Clustering](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#k--means-clustering)
+- [Neural Networks](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#neural-networks)
+- [Project Outcome](https://github.com/myronaruj/Classification_Online-News-Popularity_Machine_Learning/blob/main/README.md#project-outcome)
+
 
 ##
 
